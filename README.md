@@ -8,3 +8,9 @@ https://github.com/BykovaEkaterina/hw6/blob/master/flat.png
 
 Часть 2
 https://github.com/BykovaEkaterina/hw6/blob/master/question.png
+
+https://github.com/BykovaEkaterina/hw6/blob/master/lovelike.png
+
+Оба глагола (love и like) употребляются с дополнением "music". Например, most people love/like music.
+ Глагол love употребляется с дополнением "husband". Например, she loves her husband.
+ Глагол like употребляется с дополнением "coffee". Например, he likes coffee.
